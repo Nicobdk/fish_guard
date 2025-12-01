@@ -70,28 +70,28 @@ Its goal is to prevent mass mortality, reduce losses and bring accessible automa
 ---
 
 ## ⚙️ High-Level Functions
-- 1. Fish Detection Function
+- Fish Detection Function
   Detect fish in real-time through underwater video and isolate each individual for behavioral tracking.
 
-- 2. Behavior Analysis Function
+- Behavior Analysis Function
 Analyze swimming patterns and detect abnormal behaviors (stress, erratic bursts, stillness).
 
-- 3. Environment Supervision Function
+- Environment Supervision Function
 Monitor water quality through sensors and identify dangerous thresholds.
 
-- 4. Disease Detection Function
+- Disease Detection Function
 Identify visual symptoms such as lesions, discoloration, fungal growth, or abnormal trajectories.
 
-- 5. Risk Assessment Function
+- Risk Assessment Function
 Fuse behavior + environment data to generate a health score and alert level.
 
-- 6. Alerts & Notifications Function
+- Alerts & Notifications Function
 Send real-time warnings via dashboard, email, or SMS when anomalies occur.
 
-- 7. Analytics & Reporting Function
+- Analytics & Reporting Function
 Generate weekly/monthly health reports and evolution curves.
 
-- 8. Predictive Function
+- Predictive Function
 Use time-series models to forecast mortality or environmental degradation hours or days before it happens.
 ---
 
