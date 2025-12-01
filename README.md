@@ -5,6 +5,15 @@ Its goal is to prevent mass mortality, reduce losses and bring accessible automa
 
 ---
 
+### 🗣 Pitch 
+
+Aquaculture loses billions every year due to undetected stress, poor water conditions and late disease detection.
+We created FishGuard, an AI system using underwater cameras and sensors to detect anomalies instantly, predict mortality, and send alerts in real time.
+Affordable, intelligent, and life-saving for fish.
+This is Aquaculture 4.0.
+
+---
+
 ## 🚀 Features
 - Real-time fish detection and tracking  
 - Stress & disease behavior recognition  
